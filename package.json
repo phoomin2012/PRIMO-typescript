@@ -1,0 +1,15 @@
+{
+  "name": "primo-typescript",
+  "version": "1.0.0",
+  "description": "TypeScript project with merge function and unit tests",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "test:run": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  }
+}
